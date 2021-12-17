@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
+    android:background="#FFFFFF"
     tools:context=".MainActivity">
 
     <TextView
@@ -107,16 +108,6 @@
         app:srcCompat="@drawable/pokeball" />
 
     <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="106dp"
-        android:layout_height="92dp"
-        android:translationZ="-4dp"
-        app:layout_constraintBottom_toTopOf="@+id/grass"
-        app:layout_constraintEnd_toEndOf="@+id/grass"
-        app:layout_constraintStart_toStartOf="@+id/grass"
-        app:srcCompat="@drawable/grookey" />
-
-    <ImageView
         android:id="@+id/imageView7"
         android:layout_width="106dp"
         android:layout_height="92dp"
@@ -124,5 +115,13 @@
         app:layout_constraintEnd_toEndOf="@+id/fire"
         app:layout_constraintStart_toStartOf="@+id/fire"
         app:srcCompat="@drawable/fennekin" />
+
+    <ImageView
+        android:layout_width="106dp"
+        android:layout_height="92dp"
+        app:layout_constraintBottom_toTopOf="@+id/grass"
+        app:layout_constraintEnd_toEndOf="@+id/grass"
+        app:layout_constraintStart_toStartOf="@+id/grass"
+        app:srcCompat="@drawable/grookey" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
