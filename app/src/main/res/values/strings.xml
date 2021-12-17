@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Starter Pokedex</string>
+    <string-array name="fire_starter">
+       <item>filler</item>
+    </string-array>
+    <string-array name="water_starter">
+        <item>filler</item>
+    </string-array>
+    <string-array name="grass_starter">
+        <item>filler</item>
+    </string-array>
+    <string name="greeting">Hello \n Welcome To The Pokemon Starter PokeDex!</string>
+    <string name="description_one">Click a type, then click a pokemon to
+        learn more about the world of Pokemon</string>
+    <string name="title_activity_poke_description">PokeDescription</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="description">Description</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="back">Back</string>
+    <string name="back_button">Back</string>
+    <string name="Back">Back</string>
+    <string name="nameTV">Name</string>
 </resources>

@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/activity_description.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/activity_poke_description.xml" value="0.15729483282674772" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/activity_pokedescription.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/poke_description.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/poke_description_activity.xml" value="0.25" />
+        <entry key="..\:/Users/johna.ca8146/AndroidStudioProjects/StarterPokedex/app/src/main/res/layout/pokedescription.xml" value="0.12962962962962962" />
       </map>
     </option>
   </component>
